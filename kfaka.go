@@ -1,5 +1,7 @@
 package main
 
-func kfaka() {
+import "fmt"
 
+func kfaka() {
+	fmt.Println("1111111")
 }
