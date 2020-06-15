@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func kfaka() {
-	fmt.Println("1111111")
+	fmt.Println("1111222")
 }
